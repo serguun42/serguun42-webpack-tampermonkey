@@ -2,11 +2,11 @@
 
 This is fork of [webpack-userscript by MomoCow](https://github.com/momocow/webpack-userscript) for limited purposes. Consider using [the original npm package](https://www.npmjs.com/package/webpack-userscript).
 
-* Only purpose of this plugin is to upgrade it for webpack 5+ versions.
+* Only purpose of this plugin is to upgrade it for webpack 5+ versions
 * * `peerDependencies` in [package.json](./package.json) are set to `"webpack": ">=4.0.0"`
 * * [Main file](./lib/index.js) updated with `compilation.hooks.processAssets` – webpack's 5+ API
-* It has SSRI and ProxyConfig cut off.
-* No explicit support for hot reload from original.
+* Cut off SSRI and ProxyConfig
+* No explicit support for hot reload from original
 
 ⏬ Original README below ⏬
 

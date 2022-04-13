@@ -1,6 +1,6 @@
 {
   "name": "serguun42-webpack-userscript",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "Fork of webpack-userscript plugin",
   "repository": {
     "type": "git",
@@ -8,7 +8,7 @@
   },
   "main": "lib/index.js",
   "scripts": {
-    "install": "echo \"Consider checking out original plugin (see README.md)\""
+    "show-credit": "echo \"Consider checking out original plugin (see README.md)\""
   },
   "keywords": [
     "webpack",
