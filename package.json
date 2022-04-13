@@ -1,10 +1,10 @@
 {
   "name": "serguun42-webpack-userscript",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Fork of webpack-userscript plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/serguun42/serguun42-webpack-tampermonkey.git"
+    "url": "git+https://github.com/serguun42/serguun42-webpack-userscript.git"
   },
   "main": "lib/index.js",
   "scripts": {
@@ -22,9 +22,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/serguun42/serguun42-webpack-tampermonkey/issues"
+    "url": "https://github.com/serguun42/serguun42-webpack-userscript/issues"
   },
-  "homepage": "https://github.com/serguun42/serguun42-webpack-tampermonkey#readme",
+  "homepage": "https://github.com/serguun42/serguun42-webpack-userscript#readme",
   "peerDependencies": {
     "webpack": ">=4.0.0"
   },
